@@ -7,3 +7,6 @@ const MYCONSTC = "MYCONSTC"
 const sum = (numA, numB) => {
   return numA + numB
 }
+
+
+const navbar = "cool nav"
