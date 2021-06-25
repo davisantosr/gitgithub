@@ -14,4 +14,9 @@ const makeotherRemote = () => {
 
 const makeothermoreRemote = () => {
   console.log("Make other more something remote")
+
+}
+
+const makeother = () => {
+  console.log("Make other something")
 }
