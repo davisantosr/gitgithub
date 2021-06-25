@@ -17,11 +17,11 @@ const makeothermoreRemote = () => {
 
 }
 
-const makeother = () => {
+const makeOther = () => {
   console.log("Make other something")
 }
 
 
-const makeothermore = () => {
+const makeOthermore = () => {
   console.log("Make other more something")
 }
