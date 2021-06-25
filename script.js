@@ -15,3 +15,4 @@ const MYCONSTC = "MYCONSTC"
 
 let myLocalChange = "myLocalChange from branch feat another change"
 
+const myRemoteChange = "My Remote change from gh"
