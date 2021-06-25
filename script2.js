@@ -18,10 +18,10 @@ const makeothermoreRemote = () => {
 }
 
 const makeOther = () => {
-  console.log("Make other something")
+  console.log("Make other something!!!")
 }
 
 
 const makeOthermore = () => {
-  console.log("Make other more something")
+  console.log("Make other more something!!!")
 }
