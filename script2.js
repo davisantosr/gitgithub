@@ -6,3 +6,12 @@ const makeRemote = () => {
 const make  = () =>{
   console.log("Make something")
 }
+
+const makeotherRemote = () => {
+  console.log("Make other something remote")
+}
+
+
+const makeothermoreRemote = () => {
+  console.log("Make other more something remote")
+}
