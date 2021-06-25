@@ -1,1 +1,2 @@
 const MYCONST = "MYCONST"
+const MYCONSTB = "MYCONSTB"
