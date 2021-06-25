@@ -12,3 +12,5 @@ const sum = (numA, numB) => {
 const navbar = "cool nav"
 const navbar = "cool nav"
 const MYCONSTC = "MYCONSTC"
+
+let myLocalChange = "myLocalChange from branch feat"
