@@ -14,4 +14,14 @@ const makeotherRemote = () => {
 
 const makeothermoreRemote = () => {
   console.log("Make other more something remote")
+
+}
+
+const makeOther = () => {
+  console.log("Make other something!!!")
+}
+
+
+const makeOthermore = () => {
+  console.log("Make other more something!!!")
 }
